@@ -1,0 +1,43 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+ }
+
+.wel{
+
+    color: rgb(52, 214, 119);
+    background-color: black;
+    text-align: center;
+}
+
+.box{
+     float: left;
+     box-sizing: border-box;
+     border: 5px solid rgb(0, 0, 0);
+     margin-top: 15px;
+     margin-left: 10%;
+     width: 270px;
+     height: 210px; 
+     cursor: pointer;         
+}
+
+.links{
+    text-align: center;
+    background:none ;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+     
+}
+
+a{
+    text-decoration: none;
+    color: rgb(3, 6, 207);
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+}
