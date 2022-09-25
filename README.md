@@ -12,3 +12,19 @@ Fork the repo by clicking the fork button. This will clone the repo in your acco
 ```bash
 cd website
 ```
+- Create new Branch
+```bash
+git checkout -b <yourBranch_name>
+```
+- Add changes
+```bash
+git add <file_name>
+```
+- Commit what you changed
+```bash
+git commit -m "message"
+```
+- Push changes
+```bash
+git push origin <yourBranch_name>
+```
