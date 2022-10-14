@@ -5,7 +5,7 @@ Fork the repo by clicking the fork button. This will clone the repo in your acco
 # Contribute:
 - Clone the repo to your local device: 
 ```bash
-   git clone https://shivam-sharma7.github.io/TechSociety/
+   git clone https://github.com/shivam-sharma7/Portfolio
 ```
 - Move to Directory.
 
