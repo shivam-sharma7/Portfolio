@@ -131,10 +131,6 @@ li{
 }
  
 
-#qualifications--list{
-    list-style: none;
-    padding-left: 0%;
-}
 
 #wrapper--techstack__items{
     display: flex;
@@ -152,7 +148,7 @@ li{
 
 .card--work-history{
     border-left: 1px solid var(--mainBorderColor);
-    margin-top: 3em;
+    margin-top: 2.1em;
     margin-bottom: 3em;
     padding-left: 2em;
 }
